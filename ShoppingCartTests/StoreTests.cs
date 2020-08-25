@@ -11,6 +11,10 @@ namespace ShoppingCart.Tests
     [TestClass()]
     public class StoreTests
     {
-        
+        [TestInitialize]
+        public void TestInitialize()
+        {
+            new PrivateType(typeof(Store)).SetStaticField("_instance", null);
+        }
     }
 }
