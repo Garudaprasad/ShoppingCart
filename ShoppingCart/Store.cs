@@ -25,5 +25,11 @@ namespace ShoppingCart
         {
             _products = new List<Product>();
         }
+
+        public bool AddProductToStore(string productName, decimal price)
+        {
+            _products.Add(new Product(productName, price));
+            return true;
+        }
     }
 }
