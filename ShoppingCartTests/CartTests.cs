@@ -81,5 +81,20 @@ namespace ProblemStatement1.Tests
             Assert.AreEqual(cart.RemovePurchaseFromCart(new Purchase(new Product("S", 2), 10)), false);
             Assert.AreEqual(cart.AllPurchases.Count, 1);
         }
+
+        [TestMethod()]
+        public void ClearPurchases_WithPurchase_Success()
+        {
+            Store.Instance.AddProductToStore("A", 12);
+            Cart cart = new Cart();
+            cart.AddPurchaseToCart("A", 10);
+            Assert.AreEqual(cart.AllPurchases.Count, 1);
+            Assert.AreEqual(cart.AllPurchases[0].ProductName, "A");
+            Assert.AreEqual(cart.AllPurchases[0].Quantity, 10);
+            Assert.AreEqual(cart.AllPurchases[0].Prod.ProductPrice, 12);
+
+            cart.ClearPurchases();
+            Assert.AreEqual(cart.AllPurchases.Count, 0);
+        }
     }
 }

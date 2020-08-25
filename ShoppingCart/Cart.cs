@@ -56,5 +56,13 @@ namespace ProblemStatement1
 
             return false;
         }
+
+        public void ClearPurchases()
+        {
+            if (_purchases != null && _purchases.Count > 0)
+            {
+                _purchases.Clear();
+            }
+        }
     }
 }
