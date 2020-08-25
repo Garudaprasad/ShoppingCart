@@ -18,7 +18,7 @@ namespace ShoppingCart.Tests
         }
 
         [TestMethod()]
-        public void AddProductToStoreTest_SameProductAddition_Success()
+        public void AddProductToStoreTest_ProductAddition_Success()
         {
             Assert.AreEqual(Store.Instance.AddProductToStore("A", 50), true);
 
