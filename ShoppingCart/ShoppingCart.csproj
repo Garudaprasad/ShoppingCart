@@ -51,6 +51,9 @@
     <Compile Include="Store.cs" />
     <Compile Include="Purchase.cs" />
     <Compile Include="Cart.cs" />
+    <Compile Include="IPromotion.cs" />
+    <Compile Include="PromotionFactory.cs" />
+    <Compile Include="Billing.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
