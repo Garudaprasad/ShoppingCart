@@ -76,5 +76,17 @@ namespace ShoppingCart.Tests
 
             Assert.AreEqual(Store.Instance.AllProducts.Count, 0);
         }
+
+        [TestMethod()]
+        public void AddProductToStoreTest_PriceLessThanOrEqualToZeroProductAddition_Failed()
+        {
+            Assert.AreEqual(Store.Instance.AddProductToStore("A", -50), false);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 0);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("A", 0), false);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 0);
+        }
     }
 }
