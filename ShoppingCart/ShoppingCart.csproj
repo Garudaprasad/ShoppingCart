@@ -54,6 +54,10 @@
     <Compile Include="IPromotion.cs" />
     <Compile Include="PromotionFactory.cs" />
     <Compile Include="Billing.cs" />
+    <Compile Include="PromotionOne.cs" />
+    <Compile Include="PromotionOneData.cs" />
+    <Compile Include="PromotionTwo.cs" />
+    <Compile Include="PromotionTwoData.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

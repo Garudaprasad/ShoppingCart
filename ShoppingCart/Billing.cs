@@ -38,6 +38,12 @@ namespace ProblemStatement1
             _total = 0;
             decimal totals = 0;
 
+            PromotionFactory.Instance.PromotionOneInstance.Bill(cart.AllPurchases, ref _finalBill, ref totals);
+            _total += totals;
+
+            PromotionFactory.Instance.PromotionTwoInstance.Bill(cart.AllPurchases, ref _finalBill, ref totals);
+            _total += totals;
+
             PromotionFactory.Instance.Bill(cart.AllPurchases, ref _finalBill, ref totals);
             _total += totals;
 
