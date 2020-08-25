@@ -45,5 +45,16 @@ namespace ProblemStatement1
                 return false;
             }
         }
+
+        public bool RemovePurchaseFromCart(Purchase purchase)
+        {
+            if (_purchases.IndexOf(purchase) > -1)
+            {
+                _purchases.Remove(purchase);
+                return true;
+            }
+
+            return false;
+        }
     }
 }
