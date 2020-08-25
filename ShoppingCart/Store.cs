@@ -28,7 +28,9 @@ namespace ShoppingCart
 
         public bool AddProductToStore(string productName, decimal price)
         {
-            if (this.Exists(productName))
+            if (this.Exists(productName) 
+                || productName.Equals(string.Empty) 
+                || productName.Equals(""))
             {
                 return false;
             }
