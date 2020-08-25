@@ -28,8 +28,19 @@ namespace ShoppingCart
 
         public bool AddProductToStore(string productName, decimal price)
         {
+            if (this.Exists(productName))
+            {
+                return false;
+            }
+
             _products.Add(new Product(productName, price));
             return true;
+        }
+
+        private bool Exists(string productname)
+        {
+            return (this._products.FindIndex(x => x.ProductName.Equals(productname,
+                   StringComparison.OrdinalIgnoreCase)) != -1);
         }
     }
 }
