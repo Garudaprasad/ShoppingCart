@@ -45,5 +45,16 @@ namespace ShoppingCart
             return (this._products.FindIndex(x => x.ProductName.Equals(productname,
                    StringComparison.OrdinalIgnoreCase)) != -1);
         }
+
+        public void RemoveProductFromStore(Product product)
+        {
+            if (_products.IndexOf(product) > -1)
+            {
+                _products.Remove(product);
+                return true;
+            }
+
+            return false;
+        }
     }
 }

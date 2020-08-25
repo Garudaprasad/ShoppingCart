@@ -88,5 +88,55 @@ namespace ShoppingCart.Tests
 
             Assert.AreEqual(Store.Instance.AllProducts.Count, 0);
         }
+
+        [TestMethod()]
+        public void RemoveProductFromStore_ExistingProductDelete_Success()
+        {
+            Assert.AreEqual(Store.Instance.AddProductToStore("A", 50), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 1);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("B", 30), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 2);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("C", 20), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 3);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("D", 15), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 4);
+
+
+            int prodCount = Store.Instance.AllProducts.Count;
+            Assert.AreEqual(Store.Instance.RemoveProductFromStore(Store.Instance.AllProducts[0]), true);
+            Assert.AreEqual(Store.Instance.AllProducts.Count, prodCount-1);
+        }
+
+        [TestMethod()]
+        public void RemoveProductFromStore_NonExistingProductDelete_Fail()
+        {
+            Assert.AreEqual(Store.Instance.AddProductToStore("A", 50), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 1);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("B", 30), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 2);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("C", 20), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 3);
+
+            Assert.AreEqual(Store.Instance.AddProductToStore("D", 15), true);
+
+            Assert.AreEqual(Store.Instance.AllProducts.Count, 4);
+
+
+            int prodCount = Store.Instance.AllProducts.Count;
+            Assert.AreEqual(Store.Instance.RemoveProductFromStore(new Product("F", 12)), false);
+            Assert.AreEqual(Store.Instance.AllProducts.Count, prodCount);
+        }
     }
 }
