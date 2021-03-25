@@ -1,1 +1,235 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T06:26:13.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dX7br6VNOFNSmfyMQuct" version="14.4.9" type="github" pages="2"><diagram id="d2nrYKhg--hIhlbrpEqw" name="Page-1">5ZnbctowEIafhsvM+ASBS0IgyUVaWtLptbA2tie2RGUZQ5++ki35gIAcpmAmuQH8217L3+5Kv5KeO0k2dwytwkeKIe45Ft703Nue49iWOxRfUtmWijeySyFgES4lqxYW0V/Qdyo1izCkSislTmnMo1Vb9Ckh4POWhhijefuyZxrjlrBCAbSGIYWFj2IwLvsdYR6W6rDfuPoeoiDUT7YtdSZB+mIlpCHCNG9I7rTnThilvPyVbCYQS3htLrMDZ6uBMSD8LTckj25+9eNlZLtTazBc+neDdXqloqxRnKkXVoPlW00ACB5LkOKIUCLEm5AnsTiyxU9zECoi4KBJUA3pDmgCnG3FBXlNU8MMGyC1xiBGPFq3s4FUUoMqXPWEOY3ESBxLF6Cmr8rPHljtECnNmA/qria93UCW7RyPxBELgBuRxI/Ge9dSkZ13ZMoxMhXDumg220gZhw1v5ynljL7AhMaU1Xl8juJ4R0JxFBBx6It8gtBv1sB4JNphrE4kEcbyMTd5GHFYrJAvn5mL5hcaoxnBIN/COlYbMiZsjlZHRV3fo6l7o/K4UT7envJxrMOV0srMe9PgfrGGcYYfb5j+8UgnbhjvYMOYKfu8DeMMht02TP+LNYxnfbxhXol04oYZHGwY9ws1jDtyum2YayMNEwaiQikRKn0WH7dZkshX4GgpQIlw8swsYpByyqBwuUx8/nqQcDK2oikYCaxB2gdQv6UH38F50C5uvRg0KLv2HszeqTAPDcxj34c0jUgg0YbQAIwRR8VYxVAdazyXYEXFxunFYbX3cHXcc3IdmVwxLqESyOV8K/dkqmg1YEV2/n3xJL5+TouvS+ZctX+zfp1zcrbNrduDmFEDJqaKgnYKfsYivq3mg0vm6Xl76tY6K09zg2VQ+lRGpb+7gn14K2xEOrFRsc1NmHYqnpGzz+tU+lbHe2Hb3GKVVqWYf+SiuURp7Ufm2VI8ZiE/O559Bt6rZqTSzjP5mN77iSGSPgNjNU1JktGkjdLitA07UxZmMrs4ztWM3t2qabrratWsDXYTrwKPCNaWmsGfTJhtrE5qD1MWuTDhK0qU4SlSc48YzlHhy+sgHSfG2VkL3D125nrfWnS6xJh+fEp8qkCW4G6hEnSRjxffOoe5W+X7vMyZq9w04bOMiT2NrFAgISI+JOKFu/eBnl6x9Zo2NP9c9b+mYnFY/7el9CL1/6zc6T8=</diagram><diagram id="zUdRjSH7_lpaa11w5HHU" name="Page-2">7Vtbc5s4FP41fuwOIMDwmNhJs9N041mn2/ZRBQUzxcgDOLb761cEiYskG+IY8O0lsQ7iCM71O0diAEbz9ecILmZfsYuCgaa46wEYDzRNVYBF/qWUTUbRbTUjeJHv0kkFYer/QexOSl36LoorExOMg8RfVIkODkPkJBUajCK8qk57wUF11QX06IpKQZg6MEDCtO++m8wyqmWUZj8g35uxlVWFXplDNpkS4hl08apEAncDMIowTrJf8/UIBanwmFy+jH58/e7Z8bPx+uiunyePk6c/nzJm9++5JX+FCIXJYVlrGetXGCypvP4bP3169MPfhDpGr76DUt3DBFIZJBsm2AgvQxelzNUBuF3N/ARNF9BJr66IKRHaLJkH9DJdBkUJWnN6qXkpNZc0MVGE5yiJNuQ+ygUw5TDrpMNVoWqNKXRWUjObB6l1eTnnQoLkBxXiOwQKBIEKgkOhe5MaNhmFOCTEWxfGs1ySgtSQ6/G2vJ/MSkIxJDJhtAgFMPFfq2vKBEVXmGCfPE2uEs2qqkTVOFnHeBk5iN5VNliOkWHWMEpg5KFEYPSmt/y191elLqjyZvoPEYdyFzokTEaCYoltJ1UFxkmEf6MRDnBUaPvFDwKOBAPfC8nQIXoljMFt6ik+CWI39MLcd910GamfFZ6otOhqgjpU0ddyFZXtilfbwXzNqPe1dwUpiWLaEqbgJKYkcFkSYQpOcDBpmoI0HxCUmflxBH7eGocNrRG0JT9bkF8WJ1xCPLWkalRkm3twb1mVhRoxFt9HcI4uLBILwWNoCPqRxY7WQoeq1kfiC0M94FCoR2DUMupRxZLg3+kNIZAnY9jHD70LczlBKxLwo5md+lyDSuNU0A+QJG85+lFaE6eI9h+y+KQpNNWMP5ywuxSxXc3hwG6Ij8zWJCzC9Snxb5gsIzGBH6tYdaAcm1hF3L4r9zoBjGPfqQoQrf3kRxpB/zLo6GfpynhNg+vbYMMGIXn60k3p8Gf5WnHb24jd96HsTt7qLY3umEffPsuSO+YZfaIFU+HMiEfOTdGCaVQZaXbHaGHYj/W1bUVGQyvKsvDVjD5qRpZgRqMAL9Pk+0LCuqZMvhGV30+/3Z5MplA5xGhIOjyGLFO0V0SLHYqz8FWGhOud1erTWY3hFoN4t7Nyex6G2q2zsuWv1X6hgkNV+wKjtnUpdm6enx/zsBsjEgJwONBMOE9DafgrXuQ6u9ji35DtfHRa/DOPu2QX5MLp0NrXBY0aRm27oNjIKTfcXMQabopPHFH5jLEXpPsHfz89k78jLKmez9wdeYXJukfduqPYPMpUOFn+CgiE0pQvaCNo6ViR65ALd7oiCXedIletwU5vLXLd0q/Ir23pV+SIt4R3C/TbD+Jl9laPeLU+Q7TFOaqxb3lqc3Wu3rA8JQYBN6Vpi3RCvP2BTZtbR6scqSI/Mo6Hjf/XBt5+xq312ns5OeO2uLLR1JWdz2VaO+e34wygAbA91rzJF4Wm7DBit7taQMSWZ7WrZUqaat1uvwAR+p3+rtYRiPUQiO8Ie5WgV0DGtyAt/jBc05ylazWMWq6ZwZluO7F9kFrs068d6XpV/cN92586B7jNYcd2JO47nUzQ5uFG7oP9HSEG4g7TKZ0htiSArdszxOwBzvAQsSU5KdPtIWJd3Ou4HiIuGX/Ph4j1BqXfue9pcDqx+VbAvtuKAqO2P50S605WbqLrt1NEH1bDTNOet4l16y5vO+2uY284mSuTbGNfnMwxUpWOCy5drMdPDY5sk2ALeIQMi8/CMxUUH9eDu/8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-25T05:05:36.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2xypoGGruwyoqiHgqwXM" version="14.5.1" type="github" pages="2">
+  <diagram id="d2nrYKhg--hIhlbrpEqw" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mM3w-Qk913E068bcG6vs-1" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="1012" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-2" value="level 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1021" y="149" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-3" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="1015" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-4" value="level 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1021" y="268" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-5" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="1010" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-6" value="level 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1021" y="392" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-7" value="Creation of Dummy table in Firestore for UI purpose" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-8" value="Accessing the table data with API calls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-9" value="Adding new rows in table with POST REST API calls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="220" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-11" value="Integrating security for API calls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-12" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="520" as="sourcePoint" />
+            <mxPoint x="1012" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-13" value="level 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1021" y="509" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-14" value="Creating database for Pub/Sub" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-16" value="Transferring data from Pub/Sub to database using CF" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-17" value="Integration of Pub/Sub data and UI required datatable for responding to Hardware and UI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="320" width="750" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-18" value="Encoding and Decoding using ASN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM3w-Qk913E068bcG6vs-19" value="Further enhancements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="404" y="588" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zUdRjSH7_lpaa11w5HHU" name="Page-2">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-0" />
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-1" parent="KCXMWg9sT5vLdxTPLPOz-0" />
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-2" value="VDO-Link Device data" style="rounded=1;whiteSpace=wrap;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="320" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-3" value="" style="endArrow=none;dashed=1;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-4" value="ASN1 Encoder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="560" y="110" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="280" y="160" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-6" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="360" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-9" value="Encoded VDO-Link Device data" style="rounded=1;whiteSpace=wrap;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="325" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-10" value="ASN1 Frame" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="280" y="175" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-11" value="" style="endArrow=none;dashed=1;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="560" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-12" value="RSA 256 Encoding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="560" y="310" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="280" y="370" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-14" value="Hashed ASN1 Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="295" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-15" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-2" target="KCXMWg9sT5vLdxTPLPOz-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="650" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-5" target="KCXMWg9sT5vLdxTPLPOz-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="650" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-18" value="Cloud for PUB/SUB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="160" y="560" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-13" target="KCXMWg9sT5vLdxTPLPOz-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="560" as="sourcePoint" />
+            <mxPoint x="620" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-20" value="" style="endArrow=none;dashed=1;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-21" value="TTL for session&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="560" y="510" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-22" value="" style="endArrow=none;dashed=1;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="780" as="sourcePoint" />
+            <mxPoint x="550" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-23" value="RSA 256 decoding in Google IOT Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="550" y="770" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-24" value="RSA Public Key" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="760" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-25" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-24" target="KCXMWg9sT5vLdxTPLPOz-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="540" as="sourcePoint" />
+            <mxPoint x="900" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-24" target="KCXMWg9sT5vLdxTPLPOz-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="540" as="sourcePoint" />
+            <mxPoint x="900" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="640" />
+              <mxPoint x="680" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="280" y="640" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-33" value="Hashed ASN1 Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="295" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-34" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-35" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="830" as="sourcePoint" />
+            <mxPoint x="420" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-37" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" source="KCXMWg9sT5vLdxTPLPOz-18" target="KCXMWg9sT5vLdxTPLPOz-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="720" as="sourcePoint" />
+            <mxPoint x="490" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="280" y="830" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-39" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="360" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-40" value="Encoded VDO-Link Device data" style="rounded=1;whiteSpace=wrap;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="325" y="890" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-41" value="ASN1 Frame" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="280" y="845" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-42" value="" style="endArrow=none;dashed=1;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="990" as="sourcePoint" />
+            <mxPoint x="560" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-43" value="ASN1 Decoder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="560" y="980" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-44" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KCXMWg9sT5vLdxTPLPOz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="950" as="sourcePoint" />
+            <mxPoint x="420" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCXMWg9sT5vLdxTPLPOz-45" value="VDO-Link Device data" style="rounded=1;whiteSpace=wrap;html=1;" parent="KCXMWg9sT5vLdxTPLPOz-1" vertex="1">
+          <mxGeometry x="320" y="1030" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
